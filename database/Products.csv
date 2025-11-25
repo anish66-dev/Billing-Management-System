@@ -1,0 +1,17 @@
+id,name,descrip,price,quantity,cate
+1,Smartphone,"Android smartphone with 128GB storage",24999,3,Electronics
+2,Laptop,"14-inch laptop with Intel i5 processor",58999,4,Electronics
+3,"Bluetooth Speaker","Portable Bluetooth speaker with deep bass",2999,25,Electronics
+4,T-Shirt,"Cotton T-shirt available in all sizes",499,35,Clothing
+5,Jeans,"Slim-fit denim jeans",1299,30,Clothing
+6,Jacket,"Waterproof winter jacket",2499,20,Clothing
+7,"Rice 5kg","Premium basmati rice",499,50,Groceries
+8,"Cooking Oil 1L","Refined sunflower oil",189,60,Groceries
+9,Toothpaste,"Whitening toothpaste 150g",89,100,Groceries
+10,Novel,"Fiction novel by popular author",299,15,Books
+11,Notebook,"Hardcover ruled notebook 200 pages",99,80,Books
+12,Encyclopedia,"Illustrated children’s encyclopedia",799,4,Books
+13,Headphones,"Wired over-ear headphones with mic",1499,35,Electronics
+14,"Formal Shirt","Men’s white formal shirt",999,25,Clothing
+15,"Sugar 1kg","Refined white sugar",55,90,Groceries
+16,"Suger 500gm","Refined white sugar",25,15,Groceries
